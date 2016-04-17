@@ -1,5 +1,5 @@
-name: nodebot
-description: A simple node.js starter bot for Beep Boop
+name: kittens
+description: Megill family helper bot
 avatar: resources/avatar.png
 #background: resources/background.png
 #config:
